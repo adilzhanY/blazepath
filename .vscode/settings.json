@@ -1,1 +1,5 @@
-{}
+{
+  "zencoder.enableRepoIndexing": true,
+  "zencoder.codeCompletion.enable": false,
+  "zencoder.codeCompletion.enableMultiLine": false
+}
